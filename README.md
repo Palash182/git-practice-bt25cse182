@@ -21,3 +21,6 @@ Pull Request Link: https://github.com/Palash182/git-practice-bt25cse182/pull/2
 ### Exercise 01
 ```bash
 python3 exercise-01/solution.py < exercise-01/input.txt
+
+### Exercise 02
+python3 exercise-02/solution.py < exercise-02/input.txt
