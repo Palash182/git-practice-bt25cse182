@@ -14,6 +14,10 @@ This repository contains the completed exercises for the Git practice assignment
 ## Instructions to Compile and Run
 To run the programs, execute the following commands in the terminal:
 
+## Github Activies
+Issue Link: https://github.com/Palash182/git-practice-bt25cse182/issues/1
+Pull Request Link: https://github.com/Palash182/git-practice-bt25cse182/pull/2
+
 ### Exercise 01
 ```bash
 python3 exercise-01/solution.py < exercise-01/input.txt
